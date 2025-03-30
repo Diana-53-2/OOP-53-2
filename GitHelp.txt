@@ -1,0 +1,10 @@
+git config --global user.name "Your name"
+git config --global user.email "your-adylova016@gmail.com"
+
+git init
+git remote add origin https://github.com/Diana-53-2/OOP-53-2.git
+
+git status
+git add
+git commit -m "commit name"
+git push origin master/main
